@@ -8,7 +8,7 @@ The goal of this project is not only functionality but also **clean architecture
 
 
 
- Purpose of the Project
+ **Purpose of the Project**
 
 This application was developed to:
 
@@ -54,8 +54,12 @@ This makes the code readable, reusable, and easy to maintain.
 * SnackBars notify users of successful or failed operations
 * A floating action button allows users to create new posts
 
-📸 Application Screenshots
-1 Demo API – Fetched Posts
+📸 **Application Screenshots**
+
+
+
+
+1 **Demo API: Fetched Posts**
 This screenshot shows the main screen of the application where posts are successfully fetched from the remote API and displayed dynamically.
 It confirms that the GET request and data rendering are working correctly.
 
@@ -73,7 +77,8 @@ It confirms that the GET request and data rendering are working correctly.
 
 
 
-2 Successfully Created Post
+### 2 **Successfully Created Post**:
+
 This screenshot shows the confirmation message after creating a new post.
 A SnackBar displays the Post ID returned by the server, proving successful POST request execution
 
