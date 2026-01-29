@@ -59,14 +59,33 @@ This makes the code readable, reusable, and easy to maintain.
 This screenshot shows the main screen of the application where posts are successfully fetched from the remote API and displayed dynamically.
 It confirms that the GET request and data rendering are working correctly.
 
+
+
+
 ![Demo API](lib/screenshots/demo_api.png)
+
+
+
+
+
+
+
+
 
 
 2️⃣ Successfully Created Post
 This screenshot shows the confirmation message after creating a new post.
 A SnackBar displays the Post ID returned by the server, proving successful POST request execution
 
+
+
+
+
 ![Success](lib/screenshots/succesfully_created_post.png)
+
+
+
+
 
 
 
