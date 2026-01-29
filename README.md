@@ -55,7 +55,7 @@ This makes the code readable, reusable, and easy to maintain.
 * A floating action button allows users to create new posts
 
 📸 Application Screenshots
-1️⃣ Demo API – Fetched Posts
+1 Demo API – Fetched Posts
 This screenshot shows the main screen of the application where posts are successfully fetched from the remote API and displayed dynamically.
 It confirms that the GET request and data rendering are working correctly.
 
@@ -73,7 +73,7 @@ It confirms that the GET request and data rendering are working correctly.
 
 
 
-2️⃣ Successfully Created Post
+2 Successfully Created Post
 This screenshot shows the confirmation message after creating a new post.
 A SnackBar displays the Post ID returned by the server, proving successful POST request execution
 
@@ -101,7 +101,7 @@ This approach reflects **industry-level development practices** rather than begi
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * **Flutter & Dart**
 * **HTTP package** for network requests
@@ -110,7 +110,7 @@ This approach reflects **industry-level development practices** rather than begi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 lib/
@@ -123,7 +123,7 @@ lib/
 
 ---
 
-## 🔮 Future Improvements
+ Future Improvements
 
 This project can be extended to include:
 
@@ -135,7 +135,7 @@ This project can be extended to include:
 
 ---
 
-## 📌 Conclusion
+# Conclusion
 
 This Flutter application demonstrates how mobile apps interact with remote servers in real-world scenarios. It combines clean architecture, asynchronous programming, and a user-friendly interface to produce a simple yet powerful solution.
 
